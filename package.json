@@ -1,0 +1,31 @@
+{
+  "name": "medpoint",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "bootstrap": "^4.6.0",
+    "bootstrap-icons": "^1.4.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.9.1",
+    "firebase": "^8.3.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.12",
+    "sweetalert2": "^10.15.6",
+    "vee-validate": "^3.4.5",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.5.1",
+    "vue-sweetalert2": "^4.2.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "faker-nuxt": "^1.0.2"
+  }
+}

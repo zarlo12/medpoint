@@ -72,6 +72,6 @@ export default {
   ,
   router: {
     //base: “/quimera-travel/”
-    base: "/medpoint"
+    base: "/"
   }
 }
